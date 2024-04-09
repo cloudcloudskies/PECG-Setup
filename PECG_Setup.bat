@@ -23,6 +23,7 @@ haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
 haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
 haxelib git hxdiscord_rpc https://github.com/MAJigsaw77/hxdiscord_rpc
 haxelib update
+haxelib set SScript 8.1.6
 
 echo Installed Haxe packages.
 
